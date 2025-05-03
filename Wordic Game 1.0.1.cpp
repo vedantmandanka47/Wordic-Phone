@@ -2,7 +2,7 @@
 #include <cstring>
 #include <fstream>
 #include <ctime>
-#include <string> // FIX: Added missing include
+#include <string> 
 
 using namespace std;
 
@@ -204,7 +204,6 @@ public:
         file.close();  
         cout << "\nGame log saved to '" << filename << "'.\n";
 
-        // FIX: Removed duplicate code block here
     }
 };
 
