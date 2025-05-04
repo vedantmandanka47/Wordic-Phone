@@ -9,4 +9,6 @@ Version 1.0.1 Gives
 Upcoming Version 1.0.2 gives
 
 1. Crash prevention 
-2. Loops and Players size extended 
+2. Loops and Players size extended
+
+Version 1.0.0 also available to download
