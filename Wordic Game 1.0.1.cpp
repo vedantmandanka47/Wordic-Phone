@@ -121,7 +121,6 @@ public:
 
         clearScreen();  
         cout << "Player 1 Turn\nWrite Down a Word: ";  
-        cin.ignore(10000, '\n'); // FIX: clear buffer BEFORE getline
         getline(cin, Input[0]);  
 
         for (int turn = 1; turn < totalTurns; turn++) {  
