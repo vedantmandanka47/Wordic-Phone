@@ -20,3 +20,5 @@ Upcoming Update 1.0.4
 1. Some improvement on identifying sentences and words
 2. Crash fixes
 3. Changes on maingame code
+
+if it's there any issue please share
