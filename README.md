@@ -14,3 +14,9 @@ To Play the game follow the following steps:-
    Or you can't use online compiler.
 2. Copy or download the program file and run the program in your desired compiler.
 3. Enjoy 
+
+
+Upcoming Update 1.0.4
+1. Some improvement on identifying sentences and words
+2. Crash fixes
+3. Changes on maingame code
