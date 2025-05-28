@@ -1,37 +1,3 @@
-# Wordic Phone
-
-The Wordic Phone is a multi player game that involves multiple people to pass and play. This is a pure C++ code that involves both C++ and Object Oriented Programming.
-
-🎊 Introducing Wordic Phone 1.0.3
-
-🎉 Features :-
-
-Bug fixed (The first word was not printing.
-Log is now directly can be printed int the program.
-🤔 To Play the game follow the following steps:-
-
-Download a C++ Compiler. Android:- (Recommended) Coding C++ PC :- (Recommended) Dev C++ Or you can't use online compiler.
-Copy or download the program file and run the program in your desired compiler.
-Enjoy
-🔥 Upcoming Major Update V1.1.0 Updates:-
-
-Complete Change on Code
-Better Memory Management
-Better Way to Save Log File
-Improved User Interface
-Word Sentence Detection
-Sentence Minimum Limits
-Clearing Buffer
-Versatile different inputs Validation and Invalidation
-Backwords Botton for going backwords when wrong input is given
-Player Leaving in the middle of the game will now be fixed
-Welcome Page
-Stay tuned... create a better looking Readme for my github project
-
-Absolutely! Here’s a polished and engaging README for your **Wordic Phone** GitHub project, formatted for clarity and appeal:
-
----
-
 # 🎮 Wordic Phone 1.0.3
 
 **Wordic Phone** is a fun, multiplayer pass-and-play game inspired by the classic "telephone" game, built entirely in C++ with a focus on Object Oriented Programming. Challenge your friends, test your memory, and enjoy hilarious word transformations!
