@@ -28,5 +28,6 @@ Updates:-
 8. Versatile different inputs Validation and Invalidation
 9. Backwords Botton for going backwords when wrong input is given
 10.Player Leaving in the middle of the game will now be fixed
+11.Welcome Page
 
 Stay tuned... 
