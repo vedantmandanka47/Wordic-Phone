@@ -14,8 +14,8 @@
 ## 🚀 How to Play
 
 1. **Download a C++ Compiler**
-    - **Android**: (Recommended) [Coding C++](https://play.google.com/store/apps/details?id=com.codingcplus)
-    - **PC**: (Recommended) [Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
+    - **Android**: (Recommended) [Coding C++](https://play.google.com/store/apps/details?id=com.kvassyu.coding2.cpp&pcampaignid=web_share)
+    - **PC**: (Recommended) [Code-Blocks](https://code-blocks.en.uptodown.com/windows) With [MingW Compilor](https://sourceforge.net/projects/mingw/)
     - *Note*: Online compilers may not work due to input/output requirements.
 2. **Get the Game**
     - Copy or download the `WordicPhone.cpp` file from this repository.
