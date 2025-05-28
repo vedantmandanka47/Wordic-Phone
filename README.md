@@ -62,6 +62,6 @@ Questions or suggestions? [Open an issue](https://github.com/vedantmandanka47/Wo
 ---
 
 **Let the word games begin!**
-*— The Wordic Phone Team*
+*— The Wordic Phone Duo*
 
 ---
