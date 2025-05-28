@@ -38,7 +38,7 @@ Get ready for a major overhaul with exciting new features:
 - Minimum sentence length enforcement.
 - Input buffer clearing.
 - Robust input validation and error handling.
-- "Backwards" button to correct mistakes.
+- A way to go backwords to correct mistakes.
 - Player drop-out handling.
 - Welcome page for a smooth start.
 - A List of Log file for easy access.
