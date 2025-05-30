@@ -1,3 +1,6 @@
+# 🎮 Beta Wordic Phone 1.1.0 is out now 
+(NOT YET FULLY DEVELOPED but will be updated daily.)
+
 # 🎮 Wordic Phone 1.0.3
 
 **Wordic Phone** is a fun, multiplayer pass-and-play game inspired by the classic "telephone" game, built entirely in C++ with a focus on Object Oriented Programming. Challenge your friends, test your memory, and enjoy hilarious word transformations!
