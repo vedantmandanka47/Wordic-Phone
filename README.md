@@ -1,5 +1,6 @@
 # 🎮 Beta Wordic Phone 1.1.0 is out now 
 (NOT YET FULLY DEVELOPED but will be updated daily.)
+(The New Beta code may not work in current set of compilor i gave because it is C++17. i will try to fix it.)
 
 # 🎮 Wordic Phone 1.0.3
 
