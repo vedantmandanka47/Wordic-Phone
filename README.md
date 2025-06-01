@@ -1,6 +1,4 @@
-# 🎮 Beta Wordic Phone 1.1.0 is out now 
-(NOT YET FULLY DEVELOPED but will be updated daily.)
-(The New Beta code may not work in current set of compilor i gave because it is C++17. i will try to fix it.)
+
 
 # 🎮 Wordic Phone 1.0.3
 
@@ -17,7 +15,7 @@
 
 ## 🚀 How to Play
 
-1. **Download a C++ Compiler**
+1. **Download a C++ Compilor**
     - **Android**: (Recommended) [CxxDroid](https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid)
     - **PC**: (Recommended) [Code-Blocks](https://code-blocks.en.uptodown.com/windows) With [MingW19 Compilor](https://nuwen.net/mingw.html)
     - *Note*: Online compilers may not work due to input/output requirements.
