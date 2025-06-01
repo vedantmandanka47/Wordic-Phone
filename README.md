@@ -19,7 +19,7 @@
 
 1. **Download a C++ Compiler**
     - **Android**: (Recommended) [CxxDroid](https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid)
-    - **PC**: (Recommended) [Code-Blocks](https://code-blocks.en.uptodown.com/windows) With [MingW19 Compilor](https://sourceforge.net/projects/mingw/)
+    - **PC**: (Recommended) [Code-Blocks](https://code-blocks.en.uptodown.com/windows) With [MingW19 Compilor](https://nuwen.net/mingw.html)
     - *Note*: Online compilers may not work due to input/output requirements.
 2. **Get the Game**
     - Copy or download the `WordicPhone.cpp` file from this repository.
