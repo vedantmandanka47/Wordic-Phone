@@ -13,8 +13,6 @@
 namespace fs = std::filesystem;
 using namespace std;
 
-// ========== Utility Functions ==========
-
 void clearScreen() {
 #ifdef _WIN32
     system("cls");
@@ -76,8 +74,6 @@ bool isSentence(const string& s) {
     return s.find(' ') != string::npos && !s.empty() && (s.back() == '.' || s.back() == '!' || s.back() == '?');
 }
 
-// ========== Log Management ==========
-
 void ensureLogsDir() {
     if (!fs::exists("logs"))
         fs::create_directory("logs");
@@ -132,8 +128,6 @@ void renameLogFile() {
     cout << "Log renamed successfully.\n";
 }
 
-// ========== Player Management ==========
-
 struct Player {
     string name;
     bool active = true;
@@ -157,8 +151,6 @@ vector<Player> getPlayerNames(int numPlayers) {
     }
     return players;
 }
-
-// ========== Game Logic ==========
 
 struct GameState {
     vector<string> turns;
@@ -286,8 +278,6 @@ void playGame(GameState& state) {
     }
 }
 
-// ========== Log Saving ==========
-
 string getLogFilename(bool custom) {
     ensureLogsDir();
     if (custom) {
@@ -337,8 +327,6 @@ void saveLog(const GameState& state) {
     file.close();
     cout << "Log saved as: " << filename << endl;
 }
-
-// ========== Main Menu and Help ==========
 
 void showWelcomePage() {
     clearScreen();
@@ -394,8 +382,6 @@ void showCredits() {
     cout << "Idea: Shreya, Implementation: Vedant\n";
     pressEnterToContinue();
 }
-
-// ========== Main Program ==========
 
 int main() {
     int loops = 3, numPlayers = 3;
